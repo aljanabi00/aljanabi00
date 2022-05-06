@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
 
-- :telescope: I’m working as a Software Engineer and Head of the development team for building data driven solutions.
+- :telescope:  I’m working as a Software Engineer and the Head of the development team for building data driven solutions.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles in addition to courses.
 
