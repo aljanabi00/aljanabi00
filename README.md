@@ -25,8 +25,6 @@ I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :telescope: I’m working as a Software Engineer and Head of the development team for building data driven solutions.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles in addition to courses.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aljanabi00/)
